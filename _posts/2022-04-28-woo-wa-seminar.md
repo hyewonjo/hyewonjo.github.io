@@ -2,6 +2,7 @@
 layout: posts
 title: 2022년 4월 우아한테크세미나 - 지속가능한 SW 개발을 위한 코드리뷰
 classes: wide
+category: manage
 ---
 출처 : [Youtube - 지속가능한 SW 개발을 위한 코드리뷰 :: 4월 우아한테크세미나 ](https://youtu.be/ssDMIcPBqUE)
 
